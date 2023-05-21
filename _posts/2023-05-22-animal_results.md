@@ -1,3 +1,0 @@
-# Animal Classification Results
-sample
-
