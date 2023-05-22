@@ -41,3 +41,7 @@ kramdown:
   auto_ids: true
   hard_wrap: false
   syntax_highlighter: rouge
+  
+  
+url: 'https://axel-sa.github.io/' # your main domain
+baseurl: 'axel-sa.github.io/' # if you're using custom domain keep this blank example: baseurl: ''
