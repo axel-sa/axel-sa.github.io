@@ -1,7 +1,7 @@
 # FastAI Lesson 4 and Running Notebooks Locally with CUDA
 
 ## Lesson 4 - Natural Language Processing
-This lesson is about natural language processing and the process to implement a basic model that classifies the similarity of one phrase in another. The summarised process to implement this NLP model was to load the csv files using the pandas library, tokenize the text and map to numeric IDs, traing a model using the transformers library and predict using a validation set.
+This lesson is about natural language processing and the process to implement a basic model that classifies the similarity of one phrase in another. The summarised process to implement this NLP model was to load the csv files using the pandas library, tokenize the text and map to numeric IDs, train a model using the transformers library and predict using a validation set.
 
 
 ## Running Notebooks and Training Models Locally with CUDA
